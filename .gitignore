@@ -1,0 +1,22 @@
+# KiCad local/editor files
+*.kicad_prl
+fp-info-cache
+*-backups/
+
+# KiCad generated netlists/reports
+*.net
+*.rpt
+
+# KiCad manufacturing outputs
+# Remove these rules if you intentionally version Gerber/drill releases.
+*.gbr
+*.gbrjob
+*.drl
+
+# Archives
+*.zip
+
+# Common temporary files
+*.tmp
+*.bak
+*~
